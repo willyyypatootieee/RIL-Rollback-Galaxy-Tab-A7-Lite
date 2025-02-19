@@ -1,0 +1,7 @@
+id=a536x-ril-rollback
+name=SMS Fix Magisk Module for Samsung Galaxy Tab A7 Lite
+version=v1.2.1
+versionCode=4
+author=mytja
+description=Fixes SMS on Galaxy Tab A7 Lite by rolling back the RIL libraries.
+
